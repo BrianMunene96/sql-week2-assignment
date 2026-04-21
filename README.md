@@ -15,4 +15,4 @@
 - 
 ## Article link
  
-[Link to your published article] – on Dev.to / Medium
+[Window Functions and CTEs](https://dev.to/brian_muriithi/sql-window-functions-and-ctes-m4g) – on Dev.to
